@@ -1,0 +1,26 @@
+{
+  "name": "jffrydsr",
+  "version": "0.0.2",
+  "description": "<!-- **jffrydsr/jffrydsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jffrydsr/jffrydsr.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "Jeffrey Desir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jffrydsr/jffrydsr/issues"
+  },
+  "homepage": "https://github.com/jffrydsr/jffrydsr#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "pnpm": "^5.13.6"
+  }
+}
