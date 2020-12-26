@@ -1,0 +1,4 @@
+name: Update README 
+
+on: [push]
+ - run: pnpm run generate-readme 
