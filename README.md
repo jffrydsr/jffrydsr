@@ -1,28 +1,33 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#div-aligncenter-jeffrey-desirdiv--
-
-# ➤ <div align="center">🕉 Jeffrey Desir</div>  
-  
-
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1> <div align="center">🕉 Jeffrey Desir</div>  </h1>
 <div align="center">
 <img src="https://github.com/jffrydsr/jffrydsr/blob/main/public/jffrydsr-tech.png?raw=true" align="center" style="width: 100%" />
 </div>  
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## ➤ Table of Contents
+
+* [➤ ♥ Manifesto  ](#--manifesto--)
+	* [🔮 Skillz  ](#-skillz--)
+* [➤ 🔢 Code Analysis  ](#--code-analysis--)
+* [➤ 📃 Operations Summary  ](#--operations-summary--)
+	* [📻 Radio  ](#-radio--)
+* [➤ 👓 Meta  ](#--meta--)
+* [➤ 💸 Appreciation  ](#--appreciation--)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-manifesto--
+
+## ➤ ♥ Manifesto  
+
+* **Head**  
   
 
-
-
-### ♥ Manifesto  
-- Head  
+* **Heart**  
   
 
-- Heart  
+* **Hands**  
   
-
-- Hands  
-  
-
 <br/>  
-
 
 
 ### 🔮 Skillz  
@@ -46,72 +51,19 @@
 <br/>  
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-code-analysis--
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#recent-blog-posts--
+## ➤ 🔢 Code Analysis  
 
-## ➤ Recent Blog Posts  
-
-
-### 📰 Transmissions  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
-
-### 📡 Communications
-  
-<div align="center">
-<a href="https://github.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/jffrydsr" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-### 📃 Operations Summary  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-
-
-### 🔢 Code Analysis  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jffrydsr&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-operations-summary--
 
+## ➤ 📃 Operations Summary  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 ### 📻 Radio  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=compact" /></div>  
@@ -119,18 +71,22 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-meta--
 
-### 👓 Meta  
+## ➤ 👓 Meta  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat-square" align="center" />
 </div>  
   
+<br/> 
 
-<br/>  
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-appreciation--
 
+## ➤ 💸 Appreciation  
 
+ <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-### 💸 Appreciation  
 <div align="center">
             <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
                 <img
@@ -145,6 +101,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
