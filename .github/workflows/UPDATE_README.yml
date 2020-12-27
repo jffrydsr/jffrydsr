@@ -1,14 +1,14 @@
 name: Update README
 
-on:
-  push:
-    branches:
-      - master
+on: [push]
+
+  branches:
+    - master
   schedule:
     - cron: '0 */6 * * *'
 
-jobs:
-  build:
+ jobs:
+   build:
     runs-on: ubuntu-latest
 
     steps:
