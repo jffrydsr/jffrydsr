@@ -1,8 +1,8 @@
 {
   "name": "jffrydsr",
-  "version": "0.0.2",
-  "description": "<!-- **jffrydsr/jffrydsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
-  "main": "index.js",
+  "version": "0.0.4",
+  "description": "🕉 Technomancer",
+  "main": "main.js",
   "scripts": {
     "generate:readme": "pnpx readme generate",
     "test": "echo \"Error: no test specified\" && exit 1"

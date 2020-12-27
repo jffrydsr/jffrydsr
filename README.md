@@ -15,6 +15,7 @@
 * [➤ 👓 Meta  ](#--meta--)
 * [➤ 💸 Appreciation  ](#--appreciation--)
 
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-manifesto--
 
 ## ➤ ♥ Manifesto  
@@ -101,3 +102,5 @@
                 />
             </a></div>
 <br />
+
+`[[mach: 0.0.3]]`
