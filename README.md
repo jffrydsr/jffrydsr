@@ -13,6 +13,7 @@
 * [➤ 📃 Operations Summary  ](#--operations-summary--)
 	* [📻 Radio  ](#-radio--)
 * [➤ 👓 Meta  ](#--meta--)
+* [➤ 💖Attributions](#-attributions)
 * [➤ 💸 Appreciation  ](#--appreciation--)
 
 
@@ -81,6 +82,16 @@
 </div>  
   
 <br/> 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#attributions
+
+## ➤ 💖Attributions
+
+**Github Profilerator** > _📐 README Template_
+
+**@appnest/readme** > _⚙ README Generator_
+
+**Update README Cron Job** > _💦 README Hydrator_
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]#-appreciation--
 
