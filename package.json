@@ -4,8 +4,7 @@
   "description": "🕉 Technomancer",
   "main": "main.js",
   "scripts": {
-    "generate:readme": "pnpx readme generate",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate:readme": "pnpx readme generate"
   },
   "repository": {
     "type": "git",
