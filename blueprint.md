@@ -8,6 +8,7 @@
 (load:.readme/operations_summary.md)
 (load:.readme/radio.md)
 (load:.readme/meta.md)
+(load:.readme/attribution.md)
 (load:.readme/appreciation.md)
 
 (load:.readme/mach.md)
