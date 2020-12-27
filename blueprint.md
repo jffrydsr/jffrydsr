@@ -1,3 +1,1 @@
-{{ load: .readme/INTRODUCTION.md }}
-
-{{ load: .readme/ }}
+(load:.readme/main.md)
