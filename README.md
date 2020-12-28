@@ -10,8 +10,8 @@
 	* [🧠Head](#head)
 	* [💛Heart](#heart)
 	* [👐🏿**Hands**](#hands)
-	* [🔮 Skillz  ](#-skillz--)
-* [➤ 🔢 Code Analysis  ](#--code-analysis--)
+* [➤ 🔮 Tools & Skills  ](#--tools--skills--)
+* [➤ Code Analysis  ](#-code-analysis--)
 * [➤ 📃 Operations Summary  ](#--operations-summary--)
 	* [📻 Radio  ](#-radio--)
 * [➤ 👓 Meta  ](#--meta--)
@@ -58,33 +58,61 @@
 <br/>  
 
 
-### 🔮 Skillz  
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tools--skills--
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+## ➤ 🔮 Tools & Skills  
+
+<div align="center">
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/react.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" alt="HTML5" height="50" />  
+
+---
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/figma.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/linux.svg" alt="Linux" height="50" />  
+</div>
+
+<div align="center">
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/typescript.svg" alt="TypeScript" height="50" />  
+
+</div>
+
+<div align="center">
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/mongodb.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/redux.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/git.svg" alt="Git" height="50" />  
+</div>
+
+
+<div align="center">
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/gatsby.svg" alt="Gatsby" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/ruby.svg" alt="Ruby" height="50" />  
+<img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/java.svg" alt="Java" height="50" />  
 </div>  
 
 <br/>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-code-analysis--
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#code-analysis--
 
-## ➤ 🔢 Code Analysis  
+## ➤ Code Analysis  
 
+<table align="center">
+<th>
+<h3> 🔢 Code Analysis
+</th>
+<th>
+<h3> Development Summary</h3>
+</th>
+<tr>
+ <td>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jffrydsr&hide_border=true&layout=compact" align="center" /></div>  
-
+</td>
+<td>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
+</tr>
+<able>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-operations-summary--
 
