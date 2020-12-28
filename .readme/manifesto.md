@@ -1,14 +1,18 @@
 ## ⚔ Tria Prima  
 
+### Head | ### Heart | ### Hands
+-----|-------|-------
+> ***"The eyes cannot see what the mind does not know." - Anon.*** |
 ### 🧠Head
 
 > ***"The eyes cannot see what the mind does not know." - Anon.***
 
-- **🥅Targets**
+ <details>
+ **🥅Targets**
     - **I will** 🥅**cultivate the Vedas to know what is obscured in this world.**
     - **I will** 🔥**vanquish that ignorance which covers my chest and face from God.**
     - **I will** 🗣️**speak only those words which will elevate mundanity to divinity.**
-
+</details>
 ---
 
 ### 💛Heart
