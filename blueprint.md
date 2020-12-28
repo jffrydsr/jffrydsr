@@ -1,4 +1,3 @@
-(load:.readme/name.md)
 (load:.readme/cover_image.md)
 (template:toc)
 
