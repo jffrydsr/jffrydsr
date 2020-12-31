@@ -4,34 +4,39 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
 
-## ➤ Table of Contents
+## Table of Contents
 
-* [➤ ⚔ Tria Prima  ](#--tria-prima--)
+* [⚔ Tria Prima  ](#-tria-prima--)
+							* [Head | ### Heart | ### Hands](#head---heart---hands)
 	* [🧠Head](#head)
 	* [💛Heart](#heart)
 	* [👐🏿**Hands**](#hands)
-* [➤ 🔮 Tools & Skills  ](#--tools--skills--)
-* [➤ Code Analysis  ](#-code-analysis--)
-* [➤ 📃 Operations Summary  ](#--operations-summary--)
+* [🔮 Tools & Skills  ](#-tools--skills--)
+* [Code Analysis  ](#code-analysis--)
+* [📃 Operations Summary  ](#-operations-summary--)
 	* [📻 Radio  ](#-radio--)
-* [➤ 👓 Meta  ](#--meta--)
-* [➤ 💖Attributions](#-attributions)
-* [➤ 💸 Appreciation  ](#--appreciation--)
+* [👓 Meta  ](#-meta--)
+* [💖Attributions](#attributions)
+* [💸 Appreciation  ](#-appreciation--)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tria-prima--
 
-## ➤ ⚔ Tria Prima  
+## ⚔ Tria Prima  
 
+### Head | ### Heart | ### Hands
+-----|-------|-------
+> ***"The eyes cannot see what the mind does not know." - Anon.*** |
 ### 🧠Head
 
 > ***"The eyes cannot see what the mind does not know." - Anon.***
 
-- **🥅Targets**
+ <details>
+ **🥅Targets**
     - **I will** 🥅**cultivate the Vedas to know what is obscured in this world.**
     - **I will** 🔥**vanquish that ignorance which covers my chest and face from God.**
     - **I will** 🗣️**speak only those words which will elevate mundanity to divinity.**
-
+</details>
 ---
 
 ### 💛Heart
@@ -60,7 +65,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tools--skills--
 
-## ➤ 🔮 Tools & Skills  
+## 🔮 Tools & Skills  
 
 <div align="center">
 <img style="margin: 10px" src="https://unpkg.com/simple-icons@v4/icons/react.svg" alt="React" height="50" />  
@@ -96,7 +101,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#code-analysis--
 
-## ➤ Code Analysis  
+## Code Analysis  
 
 <table align="center">
 <th>
@@ -116,7 +121,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-operations-summary--
 
-## ➤ 📃 Operations Summary  
+## 📃 Operations Summary  
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 25%" /></div>  
 
@@ -127,12 +132,12 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-meta--
 
-## ➤ 👓 Meta  
+## 👓 Meta  
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#attributions
 
-## ➤ 💖Attributions
+## 💖Attributions
 
 **Github Profilerator** > _📐 README Template_
 
@@ -142,7 +147,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-appreciation--
 
-## ➤ 💸 Appreciation  
+## 💸 Appreciation  
 
  <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 

@@ -9,6 +9,10 @@
 		"width": 150,
 		"height": 150
 	},
+	"headingPrefix": {
+		"1":"",
+		"2":""
+	},
 	"placeholder": [
 		"(",
 		")"
