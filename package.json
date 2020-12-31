@@ -4,7 +4,7 @@
   "description": "🕉 Technomancer",
   "main": "main.js",
   "scripts": {
-    "generate:readme": "pnpx readme generate"
+    "hydrate": "pnpx readme generate"
   },
   "repository": {
     "type": "git",

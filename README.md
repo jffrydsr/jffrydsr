@@ -1,26 +1,44 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><div align="center">
-<img src="https://github.com/jffrydsr/jffrydsr/blob/main/public/jffrydsr-tech.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/jffrydsr/jffrydsr/blob/main/public/jffrydsr-tech.gif?raw=true" align="center" style="width: 100%" />
 </div>  
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
 
 ## Table of Contents
 
+* [Code Analysis  ](#code-analysis--)
 * [⚔ Tria Prima  ](#-tria-prima--)
 							* [Head | ### Heart | ### Hands](#head---heart---hands)
 	* [🧠Head](#head)
 	* [💛Heart](#heart)
 	* [👐🏿**Hands**](#hands)
 * [🔮 Tools & Skills  ](#-tools--skills--)
-* [Code Analysis  ](#code-analysis--)
-* [📃 Operations Summary  ](#-operations-summary--)
 	* [📻 Radio  ](#-radio--)
-* [👓 Meta  ](#-meta--)
 * [💖Attributions](#attributions)
 * [💸 Appreciation  ](#-appreciation--)
+* [License](#license)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#code-analysis--
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tria-prima--
+## Code Analysis  
+
+<table align="center">
+<th>
+<h3> 🔢 Code Analysis
+</th>
+<th>
+<h3> Development Summary</h3>
+</th>
+<tr>
+ <td>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jffrydsr&hide_border=true&layout=compact" align="center" /></div>  
+</td>
+<td>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
+</tr>
+<table>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## ⚔ Tria Prima  
 
@@ -63,7 +81,7 @@
 <br/>  
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tools--skills--
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 🔮 Tools & Skills  
 
@@ -99,43 +117,12 @@
 
 <br/>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#code-analysis--
-
-## Code Analysis  
-
-<table align="center">
-<th>
-<h3> 🔢 Code Analysis
-</th>
-<th>
-<h3> Development Summary</h3>
-</th>
-<tr>
- <td>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jffrydsr&hide_border=true&layout=compact" align="center" /></div>  
-</td>
-<td>
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
-</tr>
-<able>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-operations-summary--
-
-## 📃 Operations Summary  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=jffrydsr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 25%" /></div>  
-
 ### 📻 Radio  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=compact" /></div>  
 
 <br/>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-meta--
-
-## 👓 Meta  
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#attributions
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 💖Attributions
 
@@ -145,7 +132,7 @@
 
 **Update README Cron Job** > _💦 README Hydrator_
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-appreciation--
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 💸 Appreciation  
 
@@ -166,6 +153,11 @@
             </a></div>
 <br />
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+
+## License
+	
+Licensed under [MIT](https://opensource.org/licenses/MIT).
 <div align="center">
- <img src="https://img.shields.io/badge/Mach-0.0.3-blue?style=for-the-badge&logo=github-sponsors"/>
+ <img src="https://img.shields.io/badge/Mach-0.0.7-red?style=for-the-badge&logo=github-sponsors"/>
  </div>
