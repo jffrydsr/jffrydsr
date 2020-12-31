@@ -1,4 +1,6 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><div align="center">
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+<span style="font-family: monospace">
+<div align="center">
 <img src="https://github.com/jffrydsr/jffrydsr/blob/main/public/jffrydsr-tech.gif?raw=true" align="center" style="width: 100%; height: 90%" />
 </div>  
 
@@ -146,3 +148,4 @@
 	
 Licensed under [MIT](https://opensource.org/licenses/MIT).
 (load:.readme/mach.md)
+</span>
