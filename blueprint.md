@@ -3,7 +3,6 @@
 (load:.readme/3_affects.md)
 (load:.readme/4_communications.md)
 
-(load:.readme/attribution.md)
-(load:.readme/appreciation.md)
-(template:license)
-(load:.readme/mach.md)
+(load:.readme/5_attributions.md)
+(load:.readme/6_license.md)
+(load:.readme/7_mach.md)
