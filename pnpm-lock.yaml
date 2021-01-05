@@ -1,6 +1,7 @@
 dependencies:
   gulp: 4.0.2
   gulp-run: 1.7.1
+  stachedown: 0.0.1
 devDependencies:
   '@appnest/readme': 1.2.7
   pnpm: 5.13.6
@@ -1884,6 +1885,13 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha1-7Nyo8TFE5mDxtb1B8S80edmN+48=
+  /marked/0.3.19:
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-ea2eGWOqNxPcXv8dyERdSr/6FmzvWwzjMxpfGB/sbMccXoct+xY+YukPD+QTUZwyvK7BZwcr4m21WBOW41pAkg==
   /matchdep/2.0.0:
     dependencies:
       findup-sync: 2.0.0
@@ -1986,6 +1994,10 @@ packages:
     dev: false
     resolution:
       integrity: sha1-Ko8t33Du1WTf8tV/HhoTfZ8FB4s=
+  /mustache/0.8.2:
+    dev: false
+    resolution:
+      integrity: sha1-v1uSK49Azc+5HANdzZFhENFiH5s=
   /mute-stdout/1.0.1:
     dev: false
     engines:
@@ -2710,6 +2722,13 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha512-NzNVhJDYpwceVVii8/Hu6DKfD2G+NrQHlS/V/qgv763EYudVwEcMQNxd2lh+0VrUByXN/oJkl5grOhYWvQUYiw==
+  /stachedown/0.0.1:
+    dependencies:
+      marked: 0.3.19
+      mustache: 0.8.2
+    dev: false
+    resolution:
+      integrity: sha1-Ll/zdHM3vv7mUxKXQ9Vo3zZAKX0=
   /stack-trace/0.0.10:
     dev: false
     resolution:
@@ -3212,3 +3231,4 @@ specifiers:
   gulp: ^4.0.2
   gulp-run: ^1.7.1
   pnpm: ^5.13.6
+  stachedown: ^0.0.1

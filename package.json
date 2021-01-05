@@ -2,7 +2,6 @@
   "name": "jffrydsr",
   "version": "0.0.4",
   "description": "🕉 Technomancer",
-  "main": "main.js",
   "scripts": {
     "hydrate": "pnpx readme generate"
   },
@@ -25,6 +24,7 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-run": "^1.7.1"
+    "gulp-run": "^1.7.1",
+    "stachedown": "^0.0.1"
   }
 }

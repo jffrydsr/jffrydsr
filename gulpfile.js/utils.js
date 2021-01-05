@@ -1,21 +1,10 @@
-/*
- Title: 
- Date: 12.30.2020
- Mach: 0.0.1
- Version: MVP
-*/
 
-const fs = require('fs').promises;
-
-
-// for whatever reason, @appnest/readme concats an additional `#<heading-name>` text in the output,
-// so we'll just filter them out for now functional regex style. 
-export default function headerJunkWorkAround() {
+function headerJunkWorkAround(cb) {
 
     const outputDir = "./README.md" || null;
 
     let dirtyReadmeOutput = await fs.readFile(outputDir, (err, data) => {
-        if(err) {
+        if (err) {
             console.error(err);
         }
 
@@ -45,6 +34,8 @@ export default function headerJunkWorkAround() {
             }
         }
     }
+    cb();
 
 }
 
+exports.default = headerJunkWorkAround;
