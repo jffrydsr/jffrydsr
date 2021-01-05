@@ -1,0 +1,1 @@
+<img src="{{ img_src }}" width="{{ img_width }}" height="{{ img_height }}"/>

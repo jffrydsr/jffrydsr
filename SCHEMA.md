@@ -4,3 +4,12 @@
 -->
 
 (load: docs/cover_image.md)
+(load: docs/title.md)
+(load: docs/manifesto.md)
+(load: docs/skills.md)
+
+## PLUGINS 
+
+## Attributions 
+
+## Licensing 
