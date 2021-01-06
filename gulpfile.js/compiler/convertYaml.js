@@ -2,15 +2,14 @@ const { task } = require("gulp");
 const jaml = require('gulp-yaml');
 
 
-function processYaml(opts, cb) {
+function convertYaml(opts, cb) {
 
     let { src, destination } = opts;
 
     try {
         gulp.src(src || './data/*.yaml')
             .pipe(jaml({ schema: 'DEFAULT_SAFE_SCHEMA' }))
-            .pipe(gulp.dest(destination || './docs/'));
-
+            .pipe(gulp.dest(destination || './docs/.data'));
     }
     
     catch (e) {
@@ -18,5 +17,5 @@ function processYaml(opts, cb) {
     }
 }
 
-task(processYaml);
-task.displayName = "process:yaml";
+task(convertYaml);
+task.displayName = "convert:yaml";

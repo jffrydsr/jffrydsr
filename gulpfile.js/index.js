@@ -1,14 +1,13 @@
 /*
-  Title: Controller.Main
-  Mach: 1.0.0
-  Date: 1.4.2021
+  Title: Compiler.Index
+  Mach: 1.0.0 "MF DOOM"
+  Date: 1.6.2021
 */
 
-const { task } = require("gulp");
-
-
+const { task, series, parallel } = require("gulp");
 
 function defaultTask(cb) {
+  console.log(0);
     cb();
 }
 
