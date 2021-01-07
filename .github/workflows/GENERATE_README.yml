@@ -1,0 +1,12 @@
+name: Update README
+
+on: [push]
+
+  branches:
+    - master
+  schedule:
+    - cron: '0 */6 * * *'
+
+ jobs:
+   generate:
+    runs-on: ubuntu-latest

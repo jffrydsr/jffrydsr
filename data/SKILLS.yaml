@@ -3,8 +3,8 @@
 react: true
 javascript: true 
 express: true 
-gnubash: 
-css3: 
-gulpjs: 
-mongodb: 
+gnubash: false 
+css3: false 
+gulpjs: true 
+mongodb: true 
 

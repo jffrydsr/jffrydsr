@@ -1,12 +1,11 @@
 const { task } = require('gulp');
+const run = require('gulp-run');
 
 
-
-
-function populateTemplates(opts, cb) {
-
-
+function STAGE_1_READ(cb, opts) {
+    return run('@appnest/readme generate' + opts);
+    cb();
 }
 
-task(populateTemplates);
-task.displayName = "populate:templates"
+task(STAGE_1_READ);
+task.displayName = "stage:1";
