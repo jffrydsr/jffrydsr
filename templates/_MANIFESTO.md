@@ -1,2 +1,5 @@
-{{ content }}
+{{#manifesto}}
+ {content}
+ {mach} 
+{{/manifesto}}
 

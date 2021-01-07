@@ -1,7 +1,7 @@
 /*
   Title: Compiler.Index
   Mach: 1.0.0 "MF DOOM"
-  Date: 1.6.2021
+  Date: 1.7.2021
 */
 
 const { task, series, parallel } = require("gulp");
@@ -12,4 +12,5 @@ function defaultTask(cb) {
 }
 
 task(defaultTask); 
-task.displayName = "";
+
+task.displayName = "build:all";
