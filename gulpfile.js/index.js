@@ -1,24 +1,17 @@
 /*
-  Mach: 1.0.0
-  Date: 1.4.2021
+  Title: Compiler.Index
+  Mach: 1.0.0 "MF DOOM"
+  Date: 1.7.2021
 */
 
-const { task } = require('gulp');
-const run = require('gulp-run');
 
-const command = 'echo ✅ default task executed!';
-
-function generateReadme(cb, opts) {
-    cb();
-    return run('@appnest/readme generate' + opts);
-}
-
-task(generateReadme);
-task.displayName = "generate:readme";
+const { task, series, parallel } = require("gulp");
 
 function defaultTask(cb) {
+  console.log(0);
     cb();
-    return run(command).exec();
 }
 
 task(defaultTask); 
+
+task.displayName = "build:all";
