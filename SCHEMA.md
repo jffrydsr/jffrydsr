@@ -10,8 +10,3 @@
 (load: docs/manifesto.md)
 (load: docs/skills.md)
 
-## PLUGINS 
-
-## Attributions 
-
-## Licensing 

@@ -8,4 +8,4 @@ function STAGE_1_READ(cb, opts) {
 }
 
 task(STAGE_1_READ);
-task.displayName = "stage:1";
+STAGE_1_READ.displayName = "stage:1";

@@ -14,4 +14,4 @@ function defaultTask(cb) {
 
 task(defaultTask); 
 
-task.displayName = "build:all";
+defaultTask.displayName = "build:all";

@@ -15,4 +15,4 @@ function STAGE_3_SPIT(cb, opts) {
 }
 
 task(STAGE_3_SPIT);
-task.displayName = "stage:3";
+STAGE_3_SPIT.displayName = "stage:3";
