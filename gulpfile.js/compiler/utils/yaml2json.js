@@ -18,4 +18,4 @@ function convertYaml(opts, cb) {
 }
 
 task(convertYaml);
-task.displayName = "convert:yaml";
+convertYaml.displayName = "convert:yaml";

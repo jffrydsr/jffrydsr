@@ -8,10 +8,14 @@ facebook:
 
 instagam:
  - username: jffrydsr 
+ - color: white
  - url: https://instagram.com/
 
-
-youtube: jffrydsr 
+youtube:
+  - username: jffrydsr
+  - url: https://youtube.com/
+  
+   
 twitter: jffrydsr 
 leetcode: jffrydsr 
 devto: jffrydsr 
