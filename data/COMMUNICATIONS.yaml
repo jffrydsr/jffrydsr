@@ -1,29 +1,36 @@
-github: 
-facebook: 
-<<<<<<< HEAD
- - username: jffrydsr 
- - url: https://facebook.com/
+alignment: 
 
-instagam:
+github:
  - username: jffrydsr 
  - color: white
- - url: https://instagram.com/
+ - style: for-the-badge 
 
-youtube:
-  - username: jffrydsr
-  - url: https://youtube.com/
-  
-   
-twitter: jffrydsr 
-leetcode: jffrydsr 
-devto: jffrydsr 
-behance: 
-parler: 
-medium: 
-stackoverflow: 
-=======
-youtube: 
+codepen:
+ - username: jffrydsr 
+ - color: white
+ - style: for-the-badge
+
+facebook: 
+ - username: jffrydsr
+ - color: white
+ - style: for-the-badge
+
 twitter: 
-leetcode:
-devto: 
->>>>>>> parent of a96d31d... Merge branch 'main' of https://github.com/jffrydsr/jffrydsr into main
+ - username: jffrydsr
+ - color: white
+ - style: for-the-badge
+
+youtube: 
+ - username: jffrydsr
+ - color: white
+ - style: for-the-badge
+
+dribble: 
+ - username: jffrydsr
+ - color: white
+ - style: for-the-badge
+
+behance: 
+ - username: jffrydsr
+ - color: white
+ - style: for-the-badge
