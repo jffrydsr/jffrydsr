@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< HEAD:data/MANIFESTO.yaml
 manifesto: 
     - content: 
 =======
+=======
+>>>>>>> parent of a96d31d... Merge branch 'main' of https://github.com/jffrydsr/jffrydsr into main
 ## ⚔ Tria Prima  
 
 ### Head | ### Heart | ### Hands
@@ -41,4 +44,7 @@ manifesto:
     - **I feel the 🍦softness of hand from a past life; all too familiar.**
     - **I feel infinite** 🔋**energy in course through my veins and palms.**
 <br/>  
+<<<<<<< HEAD
 >>>>>>> parent of 5148daa... added :: [Templates, Data, README?]:templates/6_manifesto.md
+=======
+>>>>>>> parent of a96d31d... Merge branch 'main' of https://github.com/jffrydsr/jffrydsr into main

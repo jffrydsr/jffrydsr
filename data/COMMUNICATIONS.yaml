@@ -1,8 +1,6 @@
 github: 
- - username: jffrydsr 
- - url: https://github.com/
- 
 facebook: 
+<<<<<<< HEAD
  - username: jffrydsr 
  - url: https://facebook.com/
 
@@ -23,3 +21,9 @@ behance:
 parler: 
 medium: 
 stackoverflow: 
+=======
+youtube: 
+twitter: 
+leetcode:
+devto: 
+>>>>>>> parent of a96d31d... Merge branch 'main' of https://github.com/jffrydsr/jffrydsr into main

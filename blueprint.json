@@ -3,6 +3,11 @@
 	"blueprint": "SCHEMA.md",
 	"input": "SCHEMA.md",
 	"output": "README.md",
+	"logo": {
+		"src": "./assets/*",
+		"width": 150,
+		"height": 150
+	},
 	"headingPrefix": {
 		"1":"",
 		"2":""
@@ -16,6 +21,18 @@
 			"titleLevel": 2
 		}
 	},
+	"badges": [
+		{
+			"alt": "Custom badge",
+			"url": "https://github.com/badges/shields",
+			"img": "https://img.shields.io/badge/custom-badge-f39f37.svg"
+		},
+		{
+			"alt": "Maintained",
+			"img": "https://img.shields.io/badge/Maintained%3F-yes-green.svg",
+			"url": "https://github.com/andreasbm/readme/graphs/commit-activity"
+		}
+	],
 	"templates": [
 		{
 			"name": "install",

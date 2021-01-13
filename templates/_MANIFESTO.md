@@ -1,5 +1,0 @@
-{{#manifesto}}
- {content}
- {mach} 
-{{/manifesto}}
-
