@@ -1,14 +1,16 @@
 alignment: center
 
+codepen:
+ - username: jffrydsr 
+ - color: white
+ - style: for-the-badge
+ 
 github:
  - username: jffrydsr 
  - color: white
  - style: for-the-badge 
 
-codepen:
- - username: jffrydsr 
- - color: white
- - style: for-the-badge
+
 
 facebook: 
  - username: jffrydsr
