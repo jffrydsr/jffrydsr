@@ -20,9 +20,3 @@ function defaultTask(cb) {
     cb();
     return run(command).exec();
 }
-
-<<<<<<< HEAD
-defaultTask.displayName = "build:all";
-=======
-task(defaultTask); 
->>>>>>> parent of a96d31d... Merge branch 'main' of https://github.com/jffrydsr/jffrydsr into main
