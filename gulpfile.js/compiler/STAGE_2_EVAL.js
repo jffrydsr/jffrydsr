@@ -1,13 +1,23 @@
+
 const { task } = require('gulp');
 const run = require('gulp-run');
+const { readdir } = require('fs');
 
-// take Stage_1 data and transform using Stachedown & validate.
-function STAGE_2_EVAL(cb, opts) {
-    return run('@appnest/readme generate' + opts);
-    cb();
+const getResources = (path, { opts }) => {
+
+    try {
+        let data = readdir(path); 
+   }
 }
 
 
-// single task export. 
+function STAGE_2_EVAL(cb, DATA, TEMPLATES) {
+    let _TEMPLATES = getResources()
+    let _DATA = getResources(); 
+
+    return [_DATA, _TEMPLATES];
+}
+
 task(STAGE_1_READ);
-STAGE_1_READ.displayName = "stage:1";
+
+
