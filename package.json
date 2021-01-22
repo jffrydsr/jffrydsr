@@ -1,30 +1,22 @@
 {
   "name": "jffrydsr",
-  "version": "0.0.4",
-  "description": "🕉 Technomancer",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "hydrate": "pnpx readme generate"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jffrydsr/jffrydsr.git"
   },
-  "keywords": [
-    "profile"
-  ],
   "author": "Jeffrey Desir",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jffrydsr/jffrydsr/issues"
   },
   "homepage": "https://github.com/jffrydsr/jffrydsr#readme",
-  "devDependencies": {
-    "@appnest/readme": "^1.2.7",
-    "pnpm": "^5.13.6"
-  },
   "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-run": "^1.7.1",
-    "stachedown": "^0.0.1"
+    "@appnest/readme": "^1.2.7"
   }
 }

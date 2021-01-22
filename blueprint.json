@@ -37,6 +37,10 @@
 		{
 			"name": "install",
 			"template": "Run `npm install [[ ids.npm ]]' to install this library!"
+		},
+		{
+			"name":"communications",
+			"template": "Run `npm install [[ ids.npm ]]' to install this library!"
 		}
 	],
 	"line": "clouded"
