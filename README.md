@@ -1,7 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><div align="center">
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
-  
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#div-aligncenterjffrydsrtechdiv--
@@ -131,4 +131,5 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<div align="center">Mach <a href="https://profilinator.rishav.dev/" target="_blank"><code>1.1.1</code></a></div>
