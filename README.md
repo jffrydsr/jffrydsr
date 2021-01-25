@@ -1,11 +1,18 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><div align="center">
  <h1>Jffrydsr.tech</h1>
- <code>a Technomancer</code>
+ <h3>
+  <code>🕉Technomancer</code>
+ </h3>
 </div>  
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#communications
+
+## Communications
 <div align="center">
 <a href="https://github.com/jffrydsr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,6 +91,7 @@
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat-square" align="center" />
 </div>  
   
+---
 
 <div align="center">
             <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
