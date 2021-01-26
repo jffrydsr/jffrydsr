@@ -10,9 +10,10 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#communications
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
 ## Communications
+
 <div align="center">
 <a href="https://github.com/jffrydsr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,7 +89,7 @@
 </td></tr></table>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
 </div>  
   
 ---
@@ -107,5 +108,5 @@
                 />
             </a></div>
 <div align="center">Mach <a href="https://github.jffrydsr.tech" target="_blank">
-   <code>1.1.1</code></a>
+   <code>1.2.1</code></a>
 </div>
