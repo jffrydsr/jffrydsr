@@ -10,8 +10,6 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
-
 ## Communications
 
 <div align="center">

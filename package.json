@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jffrydsr/jffrydsr#readme",
   "dependencies": {
-    "@appnest/readme": "^1.2.7"
+    "@appnest/readme": "^1.2.7",
+    "mdx": "^0.3.1"
   }
 }
