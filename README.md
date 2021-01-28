@@ -102,17 +102,20 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#attributions-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions-
 
-## Attributions 
+## 🙏🏿 Attributions 
 
 **Github Profilinator**
-* Author :: `Risha Vanad`
-* Link :: `https://profilinator`
-* Use :: `Base Template for tables & icons.`
+[_Risha Vanad_] | [Docs](https://) | `Template for README & icons`
+---
 
 **Stachedown**
-* Author ::
+[] | [Docs] | `Mustache to Markdown lib`
+---
+
+**Gulpfile.js**
+[] | [Docs] | `a task builder for JS`
 ---
 
 <div align="center">
