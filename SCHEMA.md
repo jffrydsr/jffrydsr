@@ -4,5 +4,6 @@
 (load:docs/SPOTIFY_PLUGIN.md)
 (load:docs/TOOLS.md)
 (load:docs/GH_PROFILE_VIEWS.md)
+(load:docs/ATTRIBUTIONS.md)
 (load:docs/SUPPORT.md)
 (load:docs/MACH.md)

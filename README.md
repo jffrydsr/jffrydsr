@@ -96,6 +96,18 @@
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
 </div>  
   
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#attributions-
+
+## Attributions 
+
+**Github Profilinator**
+* Author :: `Risha Vanad`
+* Link :: `https://profilinator`
+* Use :: `Base Template for tables & icons.`
+
+**Stachedown**
+* Author ::
 ---
 
 <div align="center">
