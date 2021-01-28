@@ -52,6 +52,11 @@
 </div>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tools
+
+## 🛠 Tools
+
 <table><tr><td valign="top" width="50%">
 
 
