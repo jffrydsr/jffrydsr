@@ -1,7 +1,11 @@
-<!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><div align="center">
+<!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️-->
+
+<div align="center">
  <h1>Jffrydsr.tech</h1>
  <h3>
+  <a href="https://jffrydsr.tech" target="_blank">
   <code>🕉Technomancer</code>
+  </a>
  </h3>
 </div>  
 
@@ -9,6 +13,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
 ## Communications
 
