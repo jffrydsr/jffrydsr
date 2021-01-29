@@ -1,5 +1,5 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><div align="center">
-    <img src="/assets/logo.png"/>
+    <img src="assets/logo.png" height="50px" width="50px"/>
 </div>
 
 
@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#communications
 
 ## Communications
 
@@ -53,15 +53,10 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
-
-## Affects 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
+(load:docs/SPOTIFY_PLUGIN.md)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#-tools
 
 ## 🛠 Tools
 
@@ -110,7 +105,7 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouded.png)]#-attributions-
 
 ## 🙏🏿 Attributions 
 

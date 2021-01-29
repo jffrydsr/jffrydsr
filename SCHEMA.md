@@ -4,7 +4,7 @@
 (load:docs/COMMUNICATIONS.md)
 (load:docs/SPOTIFY_PLUGIN.md)
 (load:docs/TOOLS.md)
-(load:docs/GH_PROFILE_VIEWS.md)
+(load:docs/FAVORITE_FREQUENCIES.md)
 (load:docs/ATTRIBUTIONS.md)
 (load:docs/SUPPORT.md)
 (load:docs/MACH.md)
