@@ -106,8 +106,10 @@
 
 ## 🙏🏿 Attributions 
 
-**Github Profilinator** <br>
-[_Risha Vanad_] | [Docs](https://) | `Template for README & icons`
+#### Github Profilinator
+
+[_Risha Vanad_] | [Docs](https://) | `template for README & icons`
+
 ---
 
 **Stachedown**<br>

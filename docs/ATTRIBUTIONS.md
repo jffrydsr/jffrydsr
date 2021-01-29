@@ -1,12 +1,15 @@
 ## 🙏🏿 Attributions 
 
-**Github Profilinator** <br>
-[_Risha Vanad_]() | [Docs](https://) | `Template for README & icons`
+#### Github Profilinator
+
+[_Risha Vanad_]() | [Docs](https://) | `template for README & icons`
+
 ---
 
-**Stachedown**<br>
+#### Stachedown
+
 []() | [Docs]() | `Mustache to Markdown lib`
 ---
 
-**Gulpfile.js**<br>
+#### Gulpfile.js**<br>
 []() | [Docs]() | `a task builder for JS`
