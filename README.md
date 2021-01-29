@@ -1,4 +1,7 @@
-<!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️-->
+<!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><div align="center">
+    <img src="/assets/logo.png"/>
+</div>
+
 
 <div align="center">
  <h1>Jffrydsr.tech</h1>
@@ -14,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## Communications
 
@@ -50,10 +53,15 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+
+## Affects 
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-tools
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 🛠 Tools
 
@@ -102,7 +110,7 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 🙏🏿 Attributions 
 
@@ -110,14 +118,7 @@
 
 [_Risha Vanad_] | [Docs](https://) | `template for README & icons`
 
----
-
-**Stachedown**<br>
-[] | [Docs] | `Mustache to Markdown lib`
----
-
-**Gulpfile.js**<br>
-[] | [Docs] | `a task builder for JS`
+#### 
 ---
 
 <div align="center">
@@ -134,5 +135,5 @@
                 />
             </a></div>
 <div align="center">Mach <a href="https://github.jffrydsr.tech" target="_blank">
-   <code>1.2.1</code></a>
+   <code>1.5.1</code></a>
 </div>

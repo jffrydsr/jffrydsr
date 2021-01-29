@@ -1,3 +1,4 @@
+(load:docs/LOGO.md)
 (load:docs/TITLE.md)
 (load:docs/COVER_IMAGE.md)
 (load:docs/COMMUNICATIONS.md)
