@@ -1,7 +1,13 @@
+
 ## 🙏🏿 Attributions 
+_special thanks to the following open-sourcers_
 
 #### Github Profilinator
 
-[_Risha Vanad_]() | [Docs](https://) | `template for README & icons`
+#### Gulp.js 
 
-#### 
+#### @appnest/readme 
+
+#### Stachedown 
+
+#### Yaml2Json
