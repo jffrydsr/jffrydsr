@@ -1,5 +1,6 @@
 
-## 🙏🏿 Attributions 
+## 🙏🏿 Attributions
+
 _special thanks to the following open-sourcers_
 
 #### Github Profilinator
@@ -11,3 +12,5 @@ _special thanks to the following open-sourcers_
 #### Stachedown 
 
 #### Yaml2Json
+
+#### MDX (coming soon)
