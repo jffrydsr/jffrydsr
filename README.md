@@ -7,7 +7,7 @@
 <div align="center">
  <h1>Jffrydsr.tech</h1>
  <h3>
-  <a href="https://jffrydsr.tech" target="_blank">
+  <a href="https://www.jffrydsr.tech" target="_blank">
   <code>🕉Technomancer</code>
   </a>
  </h3>
@@ -18,7 +18,42 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
+
+## Table of Contents
+
+* [✒Manifesto](#manifesto)
+* [Communications](#communications)
+* [🛠Tool Stack](#tool-stack)
+	* [🖌️Frontend  ](#frontend--)
+	* [⚙️Backend  ](#backend--)
+* [🙏🏿 Attributions](#-attributions)
+		* [Github Profilinator](#github-profilinator)
+		* [Gulp.js ](#gulpjs-)
+		* [@appnest/readme ](#appnestreadme-)
+		* [Stachedown ](#stachedown-)
+		* [Yaml2Json](#yaml2json)
+		* [MDX (coming soon)](#mdx-coming-soon)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
+
+## ✒Manifesto
+
+> I have sworn up the ultar of **God** etneral wrath against the tyranny of mands minds
+
+<h4 align="center">
+ Head
+</h4>
+
+<h4 align="center">
+ Heart
+</h4>
+
+<h4 align="center">
+ Hands 
+</h4>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## Communications
 
@@ -60,15 +95,15 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-favorite-tool-stack
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
-## 🛠 Favorite Tool Stack
+## 🛠Tool Stack
 
 <table><tr><td valign="top" width="50%">
 
 
 
-### Frontend  
+### 🖌️Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -86,7 +121,7 @@
 
 
 
-### Backend  
+### ⚙️Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
@@ -103,15 +138,12 @@
 
 </td></tr></table>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
-</div>  
-  
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
-## 🙏🏿 Attributions 
+## 🙏🏿 Attributions
+
 _special thanks to the following open-sourcers_
 
 #### Github Profilinator
@@ -124,21 +156,23 @@ _special thanks to the following open-sourcers_
 
 #### Yaml2Json
 
+#### MDX (coming soon)
 <div align="center">
-            <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
+<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
+</div>  
+  
+<div align="center">
+    <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
+       <img src="https://img.shields.io/badge/Appreciation-PayPal-blue.svg?style=for-the-badge"  align="center"/>
+            </a>
+            <a href="https://www.buymeacoffee.com/jffrydsr" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge" 
+                    src="https://img.shields.io/badge/Appreciation-Buy%20Me%20A%20☕Coffee-orange.svg?style=for-the-badge" 
                     align="center"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge" 
-                    align="center"
-                />
-            </a></div>
+</div>
 
-
-<div align="center">Mach: <a href="https://github.jffrydsr.tech" target="_blank">
-   <code>1.9.7</code></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/⚙️Mach-2.0.0-blueviolet?style=for-the-badge" integrity="Date.now"/>
 </div>

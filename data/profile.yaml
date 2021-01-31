@@ -1,0 +1,14 @@
+meta:
+ version: 2.0.0
+
+partials: 
+ title: 
+ tools:
+ support:
+ logo:
+ mach:
+ gh_profile_viewer:
+ frequencies:
+ cover_image:
+ communications:
+ attributions: 
