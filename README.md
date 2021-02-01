@@ -1,13 +1,15 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️-->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="100px" width="100px" />
+  <a href="https://www.jffrydsr.tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="90px" width="90px" />
+    </a>
 </div>
 
 
 <div align="center">
  <h1>Jffrydsr.tech</h1>
  <h3>
-  <a href="https://www.jffrydsr.tech" target="_blank">
+  <a href="#definitions" target="_blank">
   <code>🕉Technomancer</code>
   </a>
  </h3>
@@ -218,5 +220,5 @@ _special thanks to the following open-sourcers_
 
 ### MDX (coming soon)
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙️Mach-2.0.1-blueviolet?style=for-the-badge" integrity="Date.now()"/>
+  <img src="https://img.shields.io/badge/⚙️Mach-2.0.0-blueviolet?style=for-the-badge" integrity="Date.now"/>
 </div>

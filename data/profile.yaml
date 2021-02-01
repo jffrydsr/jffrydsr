@@ -1,11 +1,17 @@
 meta:
  version: 2.0.0
 
-partials: 
+partials:
+ logo:
+  - source: 
+    href: 
+    size: 
+     - width: 
+     - height: 
+     
  title: 
  tools:
  support:
- logo:
  mach:
  gh_profile_viewer:
  frequencies:
