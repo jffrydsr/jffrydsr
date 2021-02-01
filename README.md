@@ -17,23 +17,71 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
+</div>  
+  
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
 
 ## Table of Contents
 
+* [Activities ](#activities-)
+	* [🖌️Media  ](#media--)
+	* [⚙️Articles](#articles)
+	* [Resources](#resources)
 * [✒Manifesto](#manifesto)
-* [Communications](#communications)
+* [📡Communications](#communications)
 * [🛠Tool Stack](#tool-stack)
 	* [🖌️Frontend  ](#frontend--)
 	* [⚙️Backend  ](#backend--)
 * [🙏🏿 Attributions](#-attributions)
-		* [Github Profilinator](#github-profilinator)
-		* [Gulp.js ](#gulpjs-)
-		* [@appnest/readme ](#appnestreadme-)
-		* [Stachedown ](#stachedown-)
-		* [Yaml2Json](#yaml2json)
-		* [MDX (coming soon)](#mdx-coming-soon)
+	* [Github Profilinator](#github-profilinator)
+	* [Gulp.js ](#gulpjs-)
+	* [@appnest/readme ](#appnestreadme-)
+	* [Stachedown ](#stachedown-)
+	* [Yaml2Json](#yaml2json)
+	* [MDX (coming soon)](#mdx-coming-soon)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-
+
+## Activities 
+
+
+<table>
+ <tr>
+  <td valign="top" width="33%">
+
+### 🖌️Media  
+ <div align="center">  
+ 
+
+ </div>
+
+</td>
+
+<td valign="top" width="33%">
+
+
+### ⚙️Articles
+<div align="center">  
+ 
+</div>
+
+  </td>
+
+  <td valign="top" width="33%">
+
+
+### Resources
+<div align="center">  
+ 
+</div>
+
+  </td>
+ </tr>
+</table>  
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
 
@@ -53,9 +101,9 @@
  Hands 
 </h4>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
-## Communications
+## 📡Communications
 
 <div align="center">
 <a href="https://github.com/jffrydsr" target="_blank">
@@ -95,7 +143,7 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-stack
 
 ## 🛠Tool Stack
 
@@ -138,29 +186,6 @@
 
 </td></tr></table>  
 
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
-
-## 🙏🏿 Attributions
-
-_special thanks to the following open-sourcers_
-
-#### Github Profilinator
-
-#### Gulp.js 
-
-#### @appnest/readme 
-
-#### Stachedown 
-
-#### Yaml2Json
-
-#### MDX (coming soon)
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
-</div>  
-  
 <div align="center">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
        <img src="https://img.shields.io/badge/Appreciation-PayPal-blue.svg?style=for-the-badge"  align="center"/>
@@ -173,6 +198,25 @@ _special thanks to the following open-sourcers_
             </a>
 </div>
 
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
+
+## 🙏🏿 Attributions
+
+_special thanks to the following open-sourcers_
+
+### Github Profilinator
+
+### Gulp.js 
+
+### @appnest/readme 
+
+### Stachedown 
+
+### Yaml2Json
+
+### MDX (coming soon)
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙️Mach-2.0.0-blueviolet?style=for-the-badge" integrity="Date.now"/>
+  <img src="https://img.shields.io/badge/⚙️Mach-2.0.1-blueviolet?style=for-the-badge" integrity="Date.now()"/>
 </div>

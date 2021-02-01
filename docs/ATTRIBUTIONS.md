@@ -3,14 +3,14 @@
 
 _special thanks to the following open-sourcers_
 
-#### Github Profilinator
+### Github Profilinator
 
-#### Gulp.js 
+### Gulp.js 
 
-#### @appnest/readme 
+### @appnest/readme 
 
-#### Stachedown 
+### Stachedown 
 
-#### Yaml2Json
+### Yaml2Json
 
-#### MDX (coming soon)
+### MDX (coming soon)
