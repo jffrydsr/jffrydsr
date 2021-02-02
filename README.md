@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.gif?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
