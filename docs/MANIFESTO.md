@@ -1,15 +1,25 @@
 ## ✒Manifesto
 
-> I have sworn up the ultar of **God** etneral wrath against the tyranny of mands minds
+> I have sworn upon the altar of **God**<br>
+> eternal hostility against every form<br>
+> of _tyranny_<br>
+> over the **mind** of **man**<br>
 
-<h4 align="center">
- Head
-</h4>
+<div align="center">
+ <h3>🧠Head</h3>
+ <blockquote>I submit this mind of mine</blockquote>
+</div>
 
-<h4 align="center">
- Heart
-</h4>
+--- 
+--- 
 
-<h4 align="center">
- Hands 
-</h4>
+<div align="center">
+ <h3>💜Heart</h3>
+</div>
+
+--- 
+--- 
+
+<div align="center">
+ <h3>🙏🏿Hands</h3> 
+</div>

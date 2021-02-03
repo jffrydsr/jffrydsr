@@ -24,27 +24,6 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#table-of-contents)
-
-## Table of Contents
-
-* [Activities ](#activities-)
-	* [🖌️Media  ](#media--)
-	* [⚙️Articles](#articles)
-	* [Resources](#resources)
-* [✒Manifesto](#manifesto)
-* [📡Communications](#communications)
-* [🛠Tool Stack](#tool-stack)
-	* [🖌️Frontend  ](#frontend--)
-	* [⚙️Backend  ](#backend--)
-* [🙏🏿 Attributions](#-attributions)
-	* [Github Profilinator](#github-profilinator)
-	* [Gulp.js ](#gulpjs-)
-	* [@appnest/readme ](#appnestreadme-)
-	* [Stachedown ](#stachedown-)
-	* [Yaml2Json](#yaml2json)
-	* [MDX (coming soon)](#mdx-coming-soon)
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-
 
 ## Activities 
@@ -220,5 +199,5 @@ _special thanks to the following open-sourcers_
 
 ### MDX (coming soon)
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙️Mach-2.0.0-blueviolet?style=for-the-badge" integrity="Date.now"/>
+  <img src="https://img.shields.io/badge/⚙️Mach-4.3.4-blueviolet?style=for-the-badge" integrity="Date.now"/>
 </div>

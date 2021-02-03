@@ -2,7 +2,6 @@
 (load:docs/TITLE.md)
 (load:docs/COVER_IMAGE.md)
 (load:docs/GH_PROFILE_VIEWS.md)
-(template:toc)
 (load:docs/ACTIVITIES.md)
 (load:docs/MANIFESTO.md)
 (load:docs/COMMUNICATIONS.md)
