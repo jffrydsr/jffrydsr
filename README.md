@@ -4,15 +4,10 @@
     <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="90px" width="90px" />
     </a>
 </div>
-
+<!-- Version: -->
 
 <div align="center">
- <h1>Jffrydsr.tech</h1>
- <h3>
-  <a href="#definitions" target="_blank">
-  <code>🕉Technomancer</code>
-  </a>
- </h3>
+ <h1>Jffrydsr.tech :: <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h1>
 </div>  
 
 
@@ -24,7 +19,7 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-latest
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## ⌛Activities latest
 
@@ -64,38 +59,46 @@
 </table>  
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## ✒Manifesto
 
-> I have sworn upon the altar of **God**<br>
-> eternal hostility against every form<br>
+> I have Sworn upon the Altar of **God**<br>
+> Eternal Hostility against Every Form<br>
 > of _tyranny_<br>
-> over the **mind** of **man**<br>
+> over the **mind** of **Man**.<br>
 > -- Thomas Jefferson
 
-<div align="center">
- <h3>🧠Head</h3>
- <blockquote>I submit this mind of mine</blockquote>
-</div>
+---
+---
 
---- 
---- 
+<table style="border:none">
+ <tr>
 
-<div align="center">
- <h3>💜Heart</h3>
- <blockquote>I submit this heart of mine</blockquote>
-</div>
+  <td valign="top" width="33%">
+   <div align="center">
+   <h3>🧠Head</h3>
+   <blockquote>I submit this mind of mine<br>only to the pursuit of purification of self,<br> of knowledge of God,<br> & of liberation of Mans heart & soul from delusion.</blockquote>
+   </div>
+ </td>
 
---- 
---- 
+ <td valign="top" width="33%">
+  <div align="center">
+  <h3>💜Heart</h3>
+  <blockquote>I subject this heart of mine<br>only to the writhes of divine compassion,<br> of magnanimous mercy,<br> & of infinite love for the wicked & the ignorant.</blockquote>
+  </div>
 
-<div align="center">
- <h3>🙏🏿Hands</h3> 
- <blockquote>I submit these hands of mine</blockquote>
-</div>
+ <td valign="top" width="33%">
+  <div align="center">
+  <h3>🙏🏿Hands</h3> 
+  <blockquote>I challenge these hands of mine<br>only to the alleivation of the perplexities of material existence,<br> of the mysteries & humors of Absolute Truth,<br> & of Eternal Hostility against all forms of Terror.</blockquote>
+  </div>
+  </td>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
+ </tr>
+</table>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 📡Communications
 
@@ -132,53 +135,39 @@
 </a>  
 </div>  
 
-<h3 align="center">🎵 Favorite Frequencies</h3>
+<h2 align="center">🎵 Spotify Best Hits!</h2>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-stack
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
-## 🛠Tool Stack
+## 🧰Tool Shed
 
-<table><tr><td valign="top" width="50%">
+<table>
+ <tr>
+ 
+  <td valign="top" width="33%">
+  <h3>🖌️Frontend</h3>
+   <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure &clojurescript" />
+   <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="clojure &clojurescript" />
+  <img src=https://img.shields.io/badge/Clojure/Clojurescript-N00b-%2324292e.svg?&style=for-the-badge&logo=clojure&logoColor=white alt="clojure &clojurescript" />
+</td>  
 
+</td>
 
+<td valign="top" width="33%">
+ <div align="center">
+  <h3></h3>
+</td>
 
-### 🖌️Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
+<td valign="top" width="33%">
+<div align="center">
+ <h3>Logic</h3>
+</td>
 
-</div>
-
-</td><td valign="top" width="50%">
-
-
-
-### ⚙️Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-
-</td></tr></table>  
+ </tr>
+</table>  
 
 <div align="center">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
@@ -194,7 +183,7 @@
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 🙏🏿 Attributions
 
@@ -211,6 +200,16 @@ _special thanks to the following open-sourcers_
 ### Yaml2Json
 
 ### MDX (coming soon)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+
+## 📕Definitions 
+
+
+#### Techomacny n.
+> The commited use of technology, engineering, & creativity to alleviate suffering.
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity="Date.now"/>
+  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity=""/>
 </div>
