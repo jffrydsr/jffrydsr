@@ -24,42 +24,42 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-latest
 
-## Activities 
-
+## ⌛Activities latest
 
 <table>
  <tr>
-  <td valign="top" width="33%">
 
-### 🖌️Media  
- <div align="center">  
- 
-
- </div>
-
+  <td id="media" valign="top" width="33%">
+   <div>  
+    <h3>🖌️Media</h3>
+    <ul>
+     <li>What is the efficacy of masks agaist virus?</li>
+   </ul>
+  </div>
 </td>
 
-<td valign="top" width="33%">
+ <td id="articles" valign="top" width="40%">
+  <div>
+   <h3>⚙️Articles</h3>
+   <ul>
+    <li></li>
+    <li>What is the efficacy of masks agaist virus?</li>
+   </ul>
+  </div>
+ </td>
 
+<td id="developments" valign="top" width="50%">
+ <div>
+ <h3>🏭Developments</h3>
+ <ul>
+  <li>What is the efficacy of masks agaist virus?</li>
+  <li>{{ Resourcewdwdwdwdds }}</li>
+ </ul>
+ </div>
+</td>
 
-### ⚙️Articles
-<div align="center">  
- 
-</div>
-
-  </td>
-
-  <td valign="top" width="33%">
-
-
-### Resources
-<div align="center">  
- 
-</div>
-
-  </td>
  </tr>
 </table>  
 
@@ -68,19 +68,32 @@
 
 ## ✒Manifesto
 
-> I have sworn up the ultar of **God** etneral wrath against the tyranny of mands minds
+> I have sworn upon the altar of **God**<br>
+> eternal hostility against every form<br>
+> of _tyranny_<br>
+> over the **mind** of **man**<br>
+> -- Thomas Jefferson
 
-<h4 align="center">
- Head
-</h4>
+<div align="center">
+ <h3>🧠Head</h3>
+ <blockquote>I submit this mind of mine</blockquote>
+</div>
 
-<h4 align="center">
- Heart
-</h4>
+--- 
+--- 
 
-<h4 align="center">
- Hands 
-</h4>
+<div align="center">
+ <h3>💜Heart</h3>
+ <blockquote>I submit this heart of mine</blockquote>
+</div>
+
+--- 
+--- 
+
+<div align="center">
+ <h3>🙏🏿Hands</h3> 
+ <blockquote>I submit these hands of mine</blockquote>
+</div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
@@ -199,5 +212,5 @@ _special thanks to the following open-sourcers_
 
 ### MDX (coming soon)
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙️Mach-4.3.4-blueviolet?style=for-the-badge" integrity="Date.now"/>
+  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity="Date.now"/>
 </div>
