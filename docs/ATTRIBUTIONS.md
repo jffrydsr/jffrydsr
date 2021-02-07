@@ -1,7 +1,7 @@
 
 ## 🙏🏿 Attributions
 
-<code>special thanks to the following open-sourcers</code>
+<code>special thanks to the following open-sourcers...</code>
 
 ### 📃Github Profilinator
 _github profile generator made with Gatsby & Antd_

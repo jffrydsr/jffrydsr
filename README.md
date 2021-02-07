@@ -4,10 +4,12 @@
     <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="90px" width="90px" />
     </a>
 </div>
-<!-- Version: -->
+<!-- Version: 4.3.4
+ Date: 02.07.2020
+  -->
 
 <div align="center">
- <h1>Jffrydsr.tech :: <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h1>
+ <h2>Jffrydsr.tech :: <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
 </div>  
 
 
@@ -15,11 +17,11 @@
 <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
 </div>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=flat" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-latest
 
 ## ⌛Activities latest
 
@@ -30,7 +32,9 @@
    <div>  
     <h3>🖌️Media</h3>
     <ul>
-     <li>What is the efficacy of masks agaist virus?</li>
+     <li><code>
+     <a href="#" target="_blank">This is a test Activity</a>
+     </code></li>
    </ul>
   </div>
 </td>
@@ -39,8 +43,7 @@
   <div>
    <h3>⚙️Articles</h3>
    <ul>
-    <li></li>
-    <li>What is the efficacy of masks agaist virus?</li>
+  
    </ul>
   </div>
  </td>
@@ -49,8 +52,7 @@
  <div>
  <h3>🏭Developments</h3>
  <ul>
-  <li>What is the efficacy of masks agaist virus?</li>
-  <li>{{ Resourcewdwdwdwdds }}</li>
+
  </ul>
  </div>
 </td>
@@ -59,7 +61,7 @@
 </table>  
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
 
 ## ✒Manifesto
 
@@ -98,7 +100,7 @@
  </tr>
 </table>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
 ## 📡Communications
 
@@ -140,7 +142,7 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-shed
 
 ## 🧰Tool Shed
 
@@ -150,8 +152,8 @@
   <td valign="top" width="33%">
   <h3>🖌️Frontend</h3>
    <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure &clojurescript" />
-   <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="clojure &clojurescript" />
-  <img src=https://img.shields.io/badge/Clojure/Clojurescript-N00b-%2324292e.svg?&style=for-the-badge&logo=clojure&logoColor=white alt="clojure &clojurescript" />
+   <img src=https://img.shields.io/badge/Javacript-n^2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="clojure &clojurescript" />
+  <img src=https://img.shields.io/badge/Clojure/Clojurescript-n-%2324292e.svg?&style=for-the-badge&logo=clojure&logoColor=white alt="clojure &clojurescript" />
 </td>  
 
 </td>
@@ -183,25 +185,36 @@
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
 
 ## 🙏🏿 Attributions
 
-_special thanks to the following open-sourcers_
+<code>special thanks to the following open-sourcers...</code>
 
-### Github Profilinator
+### 📃Github Profilinator
+_github profile generator made with Gatsby & Antd_
 
-### Gulp.js 
+[Source] | [Author :: Rasha] 
 
-### @appnest/readme 
+### 🥤Gulp.js 
+_Node task runner & build management tool_
 
-### Stachedown 
+[Source] | [Author :: {}] 
+### ⚙@appnest/readme 
+_readme templating tool_
 
-### Yaml2Json
+[Source] | [Author :: {}]
 
-### MDX (coming soon)
+### 🔁Yaml2Json
+_eats YAML; spits JSON_
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+[Source] | [Author ::{}]
+### ⚛MDX (coming soon)
+_Unholy matrimony between Markdown & React_
+
+[Source] | [Author :: {}]
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#definitions-
 
 ## 📕Definitions 
 
@@ -209,7 +222,41 @@ _special thanks to the following open-sourcers_
 #### Techomacny n.
 > The commited use of technology, engineering, & creativity to alleviate suffering.
 
+#### Programmer Competency Matrix n. [source]
 
+<table>
+ <tr>
+  <th>2n</th>
+  <th>n^2</th>
+  <th>n</th>
+  <th>logn</th>
+ </tr>
+
+ <tr>
+  <td>Level 0</td>
+  <td>Level 1</td>
+  <td>Level 2</td>
+  <td>Level 3</td>
+ </tr>
+
+ <tr>
+  <td>Level 0</td>
+  <td>Level 1</td>
+  <td>Level 2</td>
+  <td>Level 3</td>
+ </tr>
+</table>
+
+#### 2n adj.
+> Programmer Comptency Matric : Level 0
+
+#### n^2 adh.
+> Programmer Comptency Matrix :: Level 1
+#### n adj.
+> Programmer Comptency Maric :: Level 2
+
+#### logn adj.
+> Programmer Comptency Matric :: Level 3 
 <div align="center">
   <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity=""/>
 </div>
