@@ -1,16 +1,27 @@
 
 ## 🙏🏿 Attributions
 
-_special thanks to the following open-sourcers_
+<code>special thanks to the following open-sourcers</code>
 
-### Github Profilinator
+### 📃Github Profilinator
+_github profile generator made with Gatsby & Antd_
 
-### Gulp.js 
+[Source]() | [Author :: Rasha]() 
 
-### @appnest/readme 
+### 🥤Gulp.js 
+_Node task runner & build management tool_
 
-### Stachedown 
+[Source]() | [Author :: {}]() 
+### ⚙@appnest/readme 
+_readme templating tool_
 
-### Yaml2Json
+[Source]() | [Author :: {}]()
 
-### MDX (coming soon)
+### 🔁Yaml2Json
+_eats YAML; spits JSON_
+
+[Source]() | [Author ::{}]()
+### ⚛MDX (coming soon)
+_Unholy matrimony between Markdown & React_
+
+[Source]() | [Author :: {}]()
