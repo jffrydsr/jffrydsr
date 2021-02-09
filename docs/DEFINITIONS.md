@@ -29,13 +29,3 @@
  </tr>
 </table>
 
-#### 2n (adj.)
-> Programmer Comptency Matric : Level 0
-
-#### n^2 (adh.)
-> Programmer Comptency Matrix :: Level 1
-#### n (adj.)
-> Programmer Comptency Maric :: Level 2
-
-#### log(n) (adj.)
-> Programmer Comptency Matric :: Level 3 

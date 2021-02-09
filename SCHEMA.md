@@ -7,7 +7,7 @@
 (load:docs/COMMUNICATIONS.md)
 (load:docs/SPOTIFY_BEST_HITS.md)
 (load:docs/TOOLS.md)
-(load:docs/SUPPORT.md)
 (load:docs/ATTRIBUTIONS.md)
+(load:docs/APPRECIATION.md)
 (load:docs/DEFINITIONS.md)
 (load:docs/MACH.md)

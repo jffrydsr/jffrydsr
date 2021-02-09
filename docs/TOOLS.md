@@ -1,27 +1,52 @@
 
 ## 🧰Tool Shed
 
-<table>
- <tr>
+<table align="center">
+ <tr >
  
-  <td valign="top" width="33%">
-  <h3>🖌️Frontend</h3>
-   <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure &clojurescript" />
-   <img src=https://img.shields.io/badge/Javacript-n^2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="clojure &clojurescript" />
-  <img src=https://img.shields.io/badge/Clojure/Clojurescript-n-%2324292e.svg?&style=for-the-badge&logo=clojure&logoColor=white alt="clojure &clojurescript" />
-</td>  
+  <td align="center">
+   <img src=https://img.shields.io/badge/Figma/-n2-%2324292e.svg?&style=for-the-badge&logo=figma&logoColor=white alt="figma" />
+  </td> 
 
-</td>
+  <td>
+   <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" />
+  </td> 
 
-<td valign="top" width="33%">
- <div align="center">
-  <h3></h3>
-</td>
+  <td>
+   <img src=https://img.shields.io/badge/HTML5-n2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="html5" />
+  </td> 
+  
+ </tr>
 
-<td valign="top" width="33%">
-<div align="center">
- <h3>Logic</h3>
-</td>
+  <tr align="center">
+ 
+  <td>
+   <img src=https://img.shields.io/badge/Clojure(Script)-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
+  </td> 
 
+  <td>
+   <img src=https://img.shields.io/badge/CSS3-n2-%2324292e.svg?&style=for-the-badge&logo=css3&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Jekyll-n2-%2324292e.svg?&style=for-the-badge&logo=jekyll&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+  
+ </tr>
+
+  <tr align="center">
+ 
+  <td>
+   <img src=https://img.shields.io/badge/React-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Java-n2-%2324292e.svg?&style=for-the-badge&logo=java&logoColor=white alt="java" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Ruby-n2-%2324292e.svg?&style=for-the-badge&logo=ruby&logoColor=white alt="ruby" />
+  </td> 
+  
  </tr>
 </table>  

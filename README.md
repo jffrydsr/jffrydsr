@@ -21,14 +21,14 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#activities-latest
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## ⌛Activities latest
 
 <table>
  <tr>
 
-  <td id="media" valign="top" width="33%">
+  <td id="media" valign="top" width="50%">
    <div>  
     <h3>🖌️Media</h3>
     <ul>
@@ -61,7 +61,7 @@
 </table>  
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## ✒Manifesto
 
@@ -100,7 +100,7 @@
  </tr>
 </table>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 📡Communications
 
@@ -142,34 +142,91 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-shed
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
 
 ## 🧰Tool Shed
 
-<table>
- <tr>
+<table align="center">
+ <tr >
  
-  <td valign="top" width="33%">
-  <h3>🖌️Frontend</h3>
-   <img src=https://img.shields.io/badge/Clojure/Clojurescript-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure &clojurescript" />
-   <img src=https://img.shields.io/badge/Javacript-n^2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="clojure &clojurescript" />
-  <img src=https://img.shields.io/badge/Clojure/Clojurescript-n-%2324292e.svg?&style=for-the-badge&logo=clojure&logoColor=white alt="clojure &clojurescript" />
-</td>  
+  <td align="center">
+   <img src=https://img.shields.io/badge/Figma/-n2-%2324292e.svg?&style=for-the-badge&logo=figma&logoColor=white alt="figma" />
+  </td> 
 
-</td>
+  <td>
+   <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" />
+  </td> 
 
-<td valign="top" width="33%">
- <div align="center">
-  <h3></h3>
-</td>
+  <td>
+   <img src=https://img.shields.io/badge/HTML5-n2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="html5" />
+  </td> 
+  
+ </tr>
 
-<td valign="top" width="33%">
-<div align="center">
- <h3>Logic</h3>
-</td>
+  <tr align="center">
+ 
+  <td>
+   <img src=https://img.shields.io/badge/ClojureScript-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
+  </td> 
 
+  <td>
+   <img src=https://img.shields.io/badge/CSS3-n2-%2324292e.svg?&style=for-the-badge&logo=css3&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Jekyll-n2-%2324292e.svg?&style=for-the-badge&logo=jekyll&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+  
+ </tr>
+
+  <tr align="center">
+ 
+  <td>
+   <img src=https://img.shields.io/badge/React-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Java-n2-%2324292e.svg?&style=for-the-badge&logo=java&logoColor=white alt="java" />
+  </td> 
+
+  <td>
+   <img src=https://img.shields.io/badge/Ruby-n2-%2324292e.svg?&style=for-the-badge&logo=ruby&logoColor=white alt="ruby" />
+  </td> 
+  
  </tr>
 </table>  
+
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
+
+## 🙏🏿 Attributions
+
+<code>special thanks to the following open-sourcers...</code>
+
+#### 📃Github Profilinator
+_github profile generator made with Gatsby & Antd_
+
+[Source] | [Author :: Rasha] 
+
+#### 🥤Gulp.js 
+_Node task runner & build management tool_
+
+[Source] | [Author :: {}] 
+#### ⚙@appnest/readme 
+_readme templating tool_
+
+[Source] | [Author :: {}]
+
+#### 🔁Yaml2Json
+_eats YAML; spits JSON_
+
+[Source] | [Author ::{}]
+#### ⚛MDX (coming soon)
+_Unholy matrimony between Markdown & React_
+
+[Source] | [Author :: {}]
+<h3 align="center">💸Appreciation</h3>
 
 <div align="center">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
@@ -183,36 +240,6 @@
             </a>
 </div>
 
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
-
-## 🙏🏿 Attributions
-
-<code>special thanks to the following open-sourcers...</code>
-
-### 📃Github Profilinator
-_github profile generator made with Gatsby & Antd_
-
-[Source] | [Author :: Rasha] 
-
-### 🥤Gulp.js 
-_Node task runner & build management tool_
-
-[Source] | [Author :: {}] 
-### ⚙@appnest/readme 
-_readme templating tool_
-
-[Source] | [Author :: {}]
-
-### 🔁Yaml2Json
-_eats YAML; spits JSON_
-
-[Source] | [Author ::{}]
-### ⚛MDX (coming soon)
-_Unholy matrimony between Markdown & React_
-
-[Source] | [Author :: {}]
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#definitions-
 
@@ -247,16 +274,7 @@ _Unholy matrimony between Markdown & React_
  </tr>
 </table>
 
-#### 2n adj.
-> Programmer Comptency Matric : Level 0
 
-#### n^2 adh.
-> Programmer Comptency Matrix :: Level 1
-#### n adj.
-> Programmer Comptency Maric :: Level 2
-
-#### logn adj.
-> Programmer Comptency Matric :: Level 3 
 <div align="center">
   <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity=""/>
 </div>

@@ -3,7 +3,7 @@
 <table>
  <tr>
 
-  <td id="media" valign="top" width="33%">
+  <td id="media" valign="top" width="50%">
    <div>  
     <h3>🖌️Media</h3>
     <ul>
