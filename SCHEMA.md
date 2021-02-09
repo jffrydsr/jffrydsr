@@ -2,7 +2,6 @@
 (load:docs/TITLE.md)
 (load:docs/COVER_IMAGE.md)
 (load:docs/GH_PROFILE_VIEWS.md)
-(load:docs/ACTIVITIES.md)
 (load:docs/MANIFESTO.md)
 (load:docs/COMMUNICATIONS.md)
 (load:docs/SPOTIFY_BEST_HITS.md)

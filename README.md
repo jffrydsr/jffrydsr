@@ -21,47 +21,7 @@
 </div>  
   
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
-
-## ⌛Activities latest
-
-<table>
- <tr>
-
-  <td id="media" valign="top" width="50%">
-   <div>  
-    <h3>🖌️Media</h3>
-    <ul>
-     <li><code>
-     <a href="#" target="_blank">This is a test Activity</a>
-     </code></li>
-   </ul>
-  </div>
-</td>
-
- <td id="articles" valign="top" width="40%">
-  <div>
-   <h3>⚙️Articles</h3>
-   <ul>
-  
-   </ul>
-  </div>
- </td>
-
-<td id="developments" valign="top" width="50%">
- <div>
- <h3>🏭Developments</h3>
- <ul>
-
- </ul>
- </div>
-</td>
-
- </tr>
-</table>  
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
 
 ## ✒Manifesto
 
@@ -71,7 +31,6 @@
 > over the **mind** of **Man**.<br>
 > -- Thomas Jefferson
 
----
 ---
 
 <table style="border:none">
@@ -100,7 +59,7 @@
  </tr>
 </table>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+<img src=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png/>
 
 ## 📡Communications
 
@@ -142,7 +101,7 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
 
 ## 🧰Tool Shed
 
@@ -197,35 +156,20 @@
 </table>  
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
 
 ## 🙏🏿 Attributions
 
-<code>special thanks to the following open-sourcers...</code>
+<code>a thousand thanks to the following open-sourcers...</code>
 
 #### 📃Github Profilinator
-_github profile generator made with Gatsby & Antd_
-
-[Source] | [Author :: Rasha] 
+_github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
 
 #### 🥤Gulp.js 
-_Node task runner & build management tool_
-
-[Source] | [Author :: {}] 
+_Node task runner & build management tool_ [ [Source](https://gulpjs.com/) | [Author](https://github.com/sponsors/gulpjs) ] 
 #### ⚙@appnest/readme 
-_readme templating tool_
+_readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Author](https://github.com/andreasbm) ]
 
-[Source] | [Author :: {}]
-
-#### 🔁Yaml2Json
-_eats YAML; spits JSON_
-
-[Source] | [Author ::{}]
-#### ⚛MDX (coming soon)
-_Unholy matrimony between Markdown & React_
-
-[Source] | [Author :: {}]
 <h3 align="center">💸Appreciation</h3>
 
 <div align="center">
@@ -241,15 +185,15 @@ _Unholy matrimony between Markdown & React_
 </div>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#definitions-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
 
 ## 📕Definitions 
 
-
 #### Techomacny n.
-> The commited use of technology, engineering, & creativity to alleviate suffering.
 
-#### Programmer Competency Matrix n. [source]
+> The commited use of technology, engineering, & creativity to alleviate suffering?.
+
+#### Programmer Competency Matrix n. 
 
 <table>
  <tr>
@@ -267,10 +211,10 @@ _Unholy matrimony between Markdown & React_
  </tr>
 
  <tr>
-  <td>Level 0</td>
-  <td>Level 1</td>
-  <td>Level 2</td>
-  <td>Level 3</td>
+  <td>0</td>
+  <td>N0</td>
+  <td>Mr. Anderson</td>
+  <td>Neo</td>
  </tr>
 </table>
 
