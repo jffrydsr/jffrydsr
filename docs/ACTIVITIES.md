@@ -8,7 +8,8 @@
     <h3>🖌️Media</h3>
     <ul>
      <li><code>
-     <a href="#" target="_blank">This is a test Activity</a>
+     <a href="https://rumble.com/vdppjd-alfie-oakes-of-seed-to-table-discusses-covid-19-response-w-alex-jones.html" target="_blank">
+     Alfie Oakes Responds to Media</a>
      </code></li>
    </ul>
   </div>

@@ -10,4 +10,10 @@
                     align="center"
                 />
             </a>
+              <a href="https://www.buymeacoffee.com/jffrydsr" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Appreciation-Bitcoin-orange.svg?style=for-the-badge" 
+                    align="center"
+                />
+            </a>
 </div>

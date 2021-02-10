@@ -9,7 +9,7 @@
   -->
 
 <div align="center">
- <h2>Jffrydsr.tech :: <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
+ <h2>Jffrydsr.tech | <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
 </div>  
 
 
@@ -21,7 +21,7 @@
 </div>  
   
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
 
 ## ✒Manifesto
 
@@ -59,7 +59,7 @@
  </tr>
 </table>
 
-<img src=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
 
 ## 📡Communications
 
@@ -101,7 +101,7 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-shed
 
 ## 🧰Tool Shed
 
@@ -156,17 +156,19 @@
 </table>  
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
 
 ## 🙏🏿 Attributions
 
-<code>a thousand thanks to the following open-sourcers...</code>
+<i>a thousand thanks to the following open-sourcers...</i>
 
 #### 📃Github Profilinator
 _github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
 
 #### 🥤Gulp.js 
 _Node task runner & build management tool_ [ [Source](https://gulpjs.com/) | [Author](https://github.com/sponsors/gulpjs) ] 
+
 #### ⚙@appnest/readme 
 _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Author](https://github.com/andreasbm) ]
 
@@ -182,10 +184,16 @@ _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Aut
                     align="center"
                 />
             </a>
+              <a href="https://www.buymeacoffee.com/jffrydsr" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Appreciation-Bitcoin-orange.svg?style=for-the-badge" 
+                    align="center"
+                />
+            </a>
 </div>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#definitions-
 
 ## 📕Definitions 
 
@@ -220,5 +228,5 @@ _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Aut
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-red?style=for-the-badge" integrity=""/>
+  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-green?style=for-the-badge" integrity=""/>
 </div>

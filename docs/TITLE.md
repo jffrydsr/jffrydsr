@@ -3,6 +3,6 @@
   -->
 
 <div align="center">
- <h2>Jffrydsr.tech :: <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
+ <h2>Jffrydsr.tech | <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
 </div>  
 

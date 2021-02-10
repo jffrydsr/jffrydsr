@@ -7,7 +7,6 @@
 > -- Thomas Jefferson
 
 ---
----
 
 <table style="border:none">
  <tr>
