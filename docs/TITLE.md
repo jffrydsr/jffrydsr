@@ -1,8 +1,10 @@
-<!-- Version: 4.3.4
- Date: 02.07.2020
-  -->
+<!--
+ version: 7.7.7
+ timestamp: 04.06.2021::1809
+-->
 
 <div align="center">
- <h2>Jffrydsr.tech | <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
+ <h2>Jffrydsr.tech</h2>
+  <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a>
 </div>  
 

@@ -1,4 +1,4 @@
-## 📕Definitions 
+<h2>📕Definitions</h2>
 
 #### Techomacny (n.)
 

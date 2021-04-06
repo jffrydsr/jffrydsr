@@ -4,12 +4,14 @@
     <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="90px" width="90px" />
     </a>
 </div>
-<!-- Version: 4.3.4
- Date: 02.07.2020
-  -->
+<!--
+ version: 7.7.7
+ timestamp: 04.06.2021::1809
+-->
 
 <div align="center">
- <h2>Jffrydsr.tech | <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a></h2>
+ <h2>Jffrydsr.tech</h2>
+  <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a>
 </div>  
 
 
@@ -20,10 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
 </div>  
   
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#manifesto
-
-## ✒Manifesto
+<h2>✒Manifesto</h2>
 
 > I have Sworn upon the Altar of **God**<br>
 > Eternal Hostility against Every Form<br>
@@ -58,10 +57,7 @@
 
  </tr>
 </table>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#communications
-
-## 📡Communications
+<h2>📡Communications</h2>
 
 <div align="center">
 <a href="https://github.com/jffrydsr" target="_blank">
@@ -155,11 +151,7 @@
  </tr>
 </table>  
 
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#-attributions
-
-## 🙏🏿 Attributions
+<h2>🙏🏿 Attributions</h2>
 
 <i>a thousand thanks to the following open-sourcers...</i>
 
@@ -192,10 +184,7 @@ _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Aut
             </a>
 </div>
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#definitions-
-
-## 📕Definitions 
+<h2>📕Definitions</h2>
 
 #### Techomacny n.
 

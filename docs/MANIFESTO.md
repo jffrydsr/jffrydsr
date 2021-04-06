@@ -1,4 +1,4 @@
-## ✒Manifesto
+<h2>✒Manifesto</h2>
 
 > I have Sworn upon the Altar of **God**<br>
 > Eternal Hostility against Every Form<br>

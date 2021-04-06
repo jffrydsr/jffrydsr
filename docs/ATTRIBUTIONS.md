@@ -1,5 +1,4 @@
-
-## 🙏🏿 Attributions
+<h2>🙏🏿 Attributions</h2>
 
 <i>a thousand thanks to the following open-sourcers...</i>
 
