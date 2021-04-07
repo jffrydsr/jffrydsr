@@ -1,7 +1,5 @@
 <h2>🙏🏿 Attributions</h2>
 
-<i>a thousand thanks to the following open-sourcers...</i>
-
 #### 📃Github Profilinator
 _github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
 

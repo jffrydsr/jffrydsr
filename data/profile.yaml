@@ -1,20 +1,8 @@
 meta:
  version: 2.0.0
 
-partials:
- logo:
-  - source: 
-    href: 
-    size: 
-     - width: 
-     - height: 
+ 
      
- title: 
- tools:
- support:
- mach:
- gh_profile_viewer:
- frequencies:
- cover_image:
- communications:
- attributions: 
+ title: Jffrydsr.tech
+  subtitle: Technomancers
+ 
