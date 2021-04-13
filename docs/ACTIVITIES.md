@@ -1,4 +1,4 @@
-## ⌛Activities (latest)
+<h2> ⌛Activities (latest)</h2>
 
 <table>
  <tr>

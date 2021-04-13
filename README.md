@@ -1,7 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️-->
 <div align="center">
   <a href="https://www.jffrydsr.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/logo.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" height="90px" width="90px" />
+    <img src="/assets/logo.png" align="center" height="110px" width="110px" />
     </a>
 </div>
 <!--
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jffrydsr/jffrydsr/main/assets/jffrydsr_cover.png?token=ACBXVDNHJQUJQAB7QSO25WLACSTJ4" align="center" style="width: 100%" />
+<img src="/assets/banner.gif" align="center" style="width: 100%" />
 </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
@@ -96,10 +96,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)]#tool-shed
-
-## 🧰Tool Shed
+<h2>🧰Tool Shed</h2>
 
 <table align="center">
  <tr >
@@ -152,8 +149,6 @@
 </table>  
 
 <h2>🙏🏿 Attributions</h2>
-
-<i>a thousand thanks to the following open-sourcers...</i>
 
 #### 📃Github Profilinator
 _github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
@@ -217,5 +212,5 @@ _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Aut
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☄️Mach-4.3.4-green?style=for-the-badge" integrity=""/>
+  <img src="https://img.shields.io/badge/☄️Mach-7.7.7-purple?style=for-the-badge"/>
 </div>
