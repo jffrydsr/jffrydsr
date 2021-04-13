@@ -1,10 +1,10 @@
 <h2>🙏🏿 Attributions</h2>
 
-#### 📃Github Profilinator
-_github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
+<h4> 📃Github Profilinator</h4>
 
-#### 🥤Gulp.js 
-_Node task runner & build management tool_ [ [Source](https://gulpjs.com/) | [Author](https://github.com/sponsors/gulpjs) ] 
+_github profile generator made with Gatsby & Antd_ ! [Source](https://profilinator.rishav.dev/) : [Author](https://github.com/rishavanand) 
 
-#### ⚙@appnest/readme 
-_readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Author](https://github.com/andreasbm) ]
+
+<h4> ⚙@appnest/readme </h4>
+
+_readme templating tool_ ! [Source](https://github.com/andreasbm/readme/) : [Author](https://github.com/andreasbm) 

@@ -1,10 +1,6 @@
-<h2>📕Definitions</h2>
 
-#### Techomacny (n.)
 
-> The commited use of technology, engineering, & creativity to alleviate suffering(?).
-
-#### Programmer Competency Matrix (n.) 
+<h4>Programmer Competency <a href="https://sijinjoseph.netlify.app/programmer-competency-matrix/" target="_blank">[Matrix] </a></h4>
 
 <table>
  <tr>

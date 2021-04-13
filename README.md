@@ -1,20 +1,23 @@
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️-->
 <div align="center">
   <a href="https://www.jffrydsr.tech" target="_blank">
-    <img src="/assets/logo.png" align="center" height="110px" width="110px" />
+    <img src="/assets/logo.png" align="center" height="150px" width="150px" />
     </a>
 </div>
 <!--
- version: 7.7.7
- timestamp: 04.06.2021::1809
+ mach: 7.7.7
+ version: 04:06:2021::1809
 -->
 
 <div align="center">
  <h2>Jffrydsr.tech</h2>
-  <a href="#definitions" target="_blank"><code>🕉Technomancer</code></a>
 </div>  
 
-
+> I have Sworn upon the Altar of **God**<br>
+> Eternal Hostility against Every Form<br>
+> of _tyranny_<br>
+> over the **mind** of **Man**.<br>
+> -- Thomas Jefferson
 <div align="center">
 <img src="/assets/banner.gif" align="center" style="width: 100%" />
 </div>  
@@ -23,14 +26,6 @@
 </div>  
   
 <h2>✒Manifesto</h2>
-
-> I have Sworn upon the Altar of **God**<br>
-> Eternal Hostility against Every Form<br>
-> of _tyranny_<br>
-> over the **mind** of **Man**.<br>
-> -- Thomas Jefferson
-
----
 
 <table style="border:none">
  <tr>
@@ -92,74 +87,55 @@
 </a>  
 </div>  
 
-<h2 align="center">🎵 Spotify Best Hits!</h2>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2142mm5qdw2cowrao66nsna7a&cover_image=true&theme=novatorem" /></div>
-
 <h2>🧰Tool Shed</h2>
 
-<table align="center">
- <tr >
- 
-  <td align="center">
-   <img src=https://img.shields.io/badge/Figma/-n2-%2324292e.svg?&style=for-the-badge&logo=figma&logoColor=white alt="figma" />
+<table>
+ <tr>
+
+  <td>
+   <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" /><br>
+   <code>Breden Eichs' English of the Internet, presently.</code>
   </td> 
 
   <td>
-   <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" />
-  </td> 
-
-  <td>
-   <img src=https://img.shields.io/badge/HTML5-n2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="html5" />
+   <img src=https://img.shields.io/badge/HTML5-n2-%2324292e.svg?&style=for-the-badge&logo=html5&logoColor=white alt="html5" /><br>
+   <code>Tim Burners-lee, Hypertext Document Markup Language, based on XML.</code>
   </td> 
   
  </tr>
 
-  <tr align="center">
+  <tr>
  
   <td>
-   <img src=https://img.shields.io/badge/ClojureScript-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
+   <img src=https://img.shields.io/badge/ClojureScript-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" /><br>
+   <code>Rich Hickeys Magnum Opus and inter-galactically preferred LISP, on the JVM & V8 Engine.</code>
+  </td> 
+
+
+  <td>
+   <img src=https://img.shields.io/badge/Java-n2-%2324292e.svg?&style=for-the-badge&logo=java&logoColor=white alt="java" /><br>
+   <code>James Goslings' best contribution to OOP design.</code>
   </td> 
 
   <td>
-   <img src=https://img.shields.io/badge/CSS3-n2-%2324292e.svg?&style=for-the-badge&logo=css3&logoColor=white alt="clojure & clojurescript" />
+   <img src=https://img.shields.io/badge/Ruby-n2-%2324292e.svg?&style=for-the-badge&logo=ruby&logoColor=white alt="ruby" /><br>
+   <code>Yukuhiro Matsumoto: Proof that the Japanese will one day dominate the Solar System.</code>
   </td> 
-
-  <td>
-   <img src=https://img.shields.io/badge/Jekyll-n2-%2324292e.svg?&style=for-the-badge&logo=jekyll&logoColor=white alt="clojure & clojurescript" />
-  </td> 
-  
- </tr>
-
-  <tr align="center">
- 
-  <td>
-   <img src=https://img.shields.io/badge/React-n2-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=white alt="clojure & clojurescript" />
-  </td> 
-
-  <td>
-   <img src=https://img.shields.io/badge/Java-n2-%2324292e.svg?&style=for-the-badge&logo=java&logoColor=white alt="java" />
-  </td> 
-
-  <td>
-   <img src=https://img.shields.io/badge/Ruby-n2-%2324292e.svg?&style=for-the-badge&logo=ruby&logoColor=white alt="ruby" />
-  </td> 
-  
  </tr>
 </table>  
 
 <h2>🙏🏿 Attributions</h2>
 
-#### 📃Github Profilinator
-_github profile generator made with Gatsby & Antd_ [ [Source](https://profilinator.rishav.dev/) | [Author](https://github.com/rishavanand) ]
+<h4> 📃Github Profilinator</h4>
 
-#### 🥤Gulp.js 
-_Node task runner & build management tool_ [ [Source](https://gulpjs.com/) | [Author](https://github.com/sponsors/gulpjs) ] 
+_github profile generator made with Gatsby & Antd_ ! [Source](https://profilinator.rishav.dev/) : [Author](https://github.com/rishavanand) 
 
-#### ⚙@appnest/readme 
-_readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Author](https://github.com/andreasbm) ]
 
-<h3 align="center">💸Appreciation</h3>
+<h4> ⚙@appnest/readme </h4>
+
+_readme templating tool_ ! [Source](https://github.com/andreasbm/readme/) : [Author](https://github.com/andreasbm) 
+
+<h3 align="center">💸Funding</h3>
 
 <div align="center">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
@@ -179,13 +155,9 @@ _readme templating tool_ [ [Source](https://github.com/andreasbm/readme/) | [Aut
             </a>
 </div>
 
-<h2>📕Definitions</h2>
 
-#### Techomacny n.
 
-> The commited use of technology, engineering, & creativity to alleviate suffering?.
-
-#### Programmer Competency Matrix n. 
+<h4>Programmer Competency <a href="https://sijinjoseph.netlify.app/programmer-competency-matrix/" target="_blank">[Matrix] </a></h4>
 
 <table>
  <tr>

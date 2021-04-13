@@ -1,4 +1,4 @@
-<h3 align="center">💸Appreciation</h3>
+<h3 align="center">💸Funding</h3>
 
 <div align="center">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
