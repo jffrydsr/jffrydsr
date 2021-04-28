@@ -1,6 +1,6 @@
-<h3 align="center">💸Funding</h3>
+<h3 align="left">💸Support</h3>
 
-<div align="center">
+<div align="left">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
        <img src="https://img.shields.io/badge/Appreciation-PayPal-blue.svg?style=for-the-badge"  align="center"/>
             </a>

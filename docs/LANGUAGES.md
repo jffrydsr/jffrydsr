@@ -1,8 +1,13 @@
 
-<h2>🧰Tools</h2>
+<h2>👅Languages</h2>
 
 <table>
  <tr>
+
+ <td>
+   <img src=https://img.shields.io/badge/CSS3-n2-%2324292e.svg?&style=for-the-badge&logo=css3&logoColor=white alt="css3" /><br>
+   <code>Håkon Wium Lie's esoteric magic to make the web prettier. </code>
+  </td>
 
   <td>
    <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" /><br>

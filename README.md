@@ -5,8 +5,8 @@
     </a>
 </div>
 <!--
- mach: 7.7.7
- version: 04:06:2021::1809
+ id: title
+ mach: 11.11.11
 -->
 
 <div align="center">
@@ -16,8 +16,7 @@
 > I have Sworn upon the Altar of **God**<br>
 > Eternal Hostility against Every Form<br>
 > of _tyranny_<br>
-> over the **mind** of **Man**.<br>
-> -- Thomas Jefferson
+> over the **mind** of **Man**. -- Thomas Jefferson
 <div align="center">
 <img src="/assets/banner.gif" align="center" style="width: 100%" />
 </div>  
@@ -25,17 +24,23 @@
 <img src="https://komarev.com/ghpvc/?username=jffrydsr&&style=for-the-badge" align="center" />
 </div>  
   
-<h2>✒Manifesto</h2>
+<h2>✒Declaration</h2>
 
 <table style="border:none">
  <tr>
 
   <td valign="top" width="33%">
-   <div align="center">
+   <div align="left">
    <h3>🧠Head</h3>
    <blockquote>I submit this mind of mine<br>only to the pursuit of purification of self,<br> of knowledge of God,<br> & of liberation of Mans heart & soul from delusion.</blockquote>
    </div>
  </td>
+  </div>
+  </td>
+
+ </tr>
+
+  <tr>
 
  <td valign="top" width="33%">
   <div align="center">
@@ -43,8 +48,15 @@
   <blockquote>I subject this heart of mine<br>only to the writhes of divine compassion,<br> of magnanimous mercy,<br> & of infinite love for the wicked & the ignorant.</blockquote>
   </div>
 
+  </div>
+  </td>
+
+ </tr>
+
+  <tr>
+
  <td valign="top" width="33%">
-  <div align="center">
+  <div align="right">
   <h3>🙏🏿Hands</h3> 
   <blockquote>I challenge these hands of mine<br>only to the alleivation of the perplexities of material existence,<br> of the mysteries & humors of Absolute Truth,<br> & of Eternal Hostility against all forms of Terror.</blockquote>
   </div>
@@ -52,6 +64,34 @@
 
  </tr>
 </table>
+
+<h2> ⌛Latest</h2>
+
+<table>
+ <tr>
+  <td valign="top" width="100%">
+   <div>  
+      <a href="https://rumble.com/vdppjd-alfie-oakes-of-seed-to-table-discusses-covid-19-response-w-alex-jones.html" target="_blank">📺| 
+     Alfie Oakes Responds to Media</a>
+  </div>
+</td>
+
+ </tr>
+
+  <tr>
+
+  <td valign="top" width="100%">
+   <div>  
+      <a href="https://github.com/lyokoproject" target="_blank">
+     🖥| Lyoko Project prototype</a>
+  </div>
+</td>
+
+
+ </tr>
+
+</table>  
+
 <h2>📡Communications</h2>
 
 <div align="center">
@@ -87,10 +127,15 @@
 </a>  
 </div>  
 
-<h2>🧰Tools</h2>
+<h2>👅Languages</h2>
 
 <table>
  <tr>
+
+ <td>
+   <img src=https://img.shields.io/badge/CSS3-n2-%2324292e.svg?&style=for-the-badge&logo=css3&logoColor=white alt="css3" /><br>
+   <code>Håkon Wium Lie's esoteric magic to make the web prettier. </code>
+  </td>
 
   <td>
    <img src=https://img.shields.io/badge/JavaScript-n2-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt="javascript" /><br>
@@ -126,18 +171,13 @@
 
 <h2>🙏🏿 Attributions</h2>
 
-<h4> 📃Github Profilinator</h4>
+* [@](https://github.com/rishavanand) [📃Github Profilinator](https://profilinator.rishav.dev/) 
 
-_github profile generator made with Gatsby & Antd_ ! [Source](https://profilinator.rishav.dev/) : [Author](https://github.com/rishavanand) 
+* [@](https://github.com/andreasbm) [⚙@appnest/readme](https://github.com/andreasbm/readme/) 
 
+<h3 align="left">💸Support</h3>
 
-<h4> ⚙@appnest/readme </h4>
-
-_readme templating tool_ ! [Source](https://github.com/andreasbm/readme/) : [Author](https://github.com/andreasbm) 
-
-<h3 align="center">💸Funding</h3>
-
-<div align="center">
+<div align="left">
     <a href="https://paypal.me/jffrydsr" target="_blank" style="display: inline-block;">
        <img src="https://img.shields.io/badge/Appreciation-PayPal-blue.svg?style=for-the-badge"  align="center"/>
             </a>
@@ -157,7 +197,7 @@ _readme templating tool_ ! [Source](https://github.com/andreasbm/readme/) : [Aut
 
 
 
-<h4>Programmer Competency <a href="https://sijinjoseph.netlify.app/programmer-competency-matrix/" target="_blank">[Matrix] </a></h4>
+<h3>Programmer Competency <a href="https://sijinjoseph.netlify.app/programmer-competency-matrix/" target="_blank">[Matrix] </a></h3>
 
 <table>
  <tr>
@@ -165,24 +205,34 @@ _readme templating tool_ ! [Source](https://github.com/andreasbm/readme/) : [Aut
   <th>n^2</th>
   <th>n</th>
   <th>logn</th>
+  <th>2^logn</th>
+  <th>sine^n * logn</th>
  </tr>
+
+
 
  <tr>
   <td>Level 0</td>
   <td>Level 1</td>
   <td>Level 2</td>
   <td>Level 3</td>
+  <td>Level 4</td>
+  <td>Level 5</td>
  </tr>
 
  <tr>
-  <td>0</td>
-  <td>N0</td>
-  <td>Mr. Anderson</td>
-  <td>Neo</td>
+  <td>N008</td>
+  <td>C0de3r</td>
+  <td>Programm3r</td>
+  <td>Hack3r</td>
+  <td>$haman</td>
+  <td>Ne0</td>
  </tr>
+
+ 
 </table>
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☄️Mach-7.7.7-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☄️Mach-11.11.11-black?style=for-the-badge"/>
 </div>
